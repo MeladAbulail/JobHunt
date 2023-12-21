@@ -1,0 +1,115 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "UserName": "Hayes Fishlee",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "ConnectionDeg": "1st",
+      "Desc": "Repair Lumbosacral Joint, Percutaneous Endoscopic ApproachgFhbauigjnSEIGjarbgyisthbgeilhylgbaergarhgsyjhfdgshj,jhgfrsdgjkhgfghsjfkhgfsghj",
+      "Role": "Owner"
+    },
+    {
+      "id": 2,
+      "UserName": "Sherwin Tilt",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "ConnectionDeg": "3rd",
+      "Desc": "Repair Lumbosacral Joint, Percutaneous Endoscopic ApproachgFhbauigjnSEIGjarbgyisthbgeilhylgbaergarhgsyjhfdgshj,jhgfrsdgjkhgfghsjfkhgfsghj",
+      "Role": "Owner"
+    },
+    {
+      "id": 3,
+      "UserName": "Way Kohlerman",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "ConnectionDeg": "1st",
+      "Desc": "Excision of Stomach, Via Natural or Artificial Opening, Vert fybsijg;narigursbniesyghbrsgisyhgbraufojraebgiyeb ApproachgFhbauigjnSEIGjarbgyisthbgeilhylgbaergarhgsyjhfdgshj,jhgfrsdgjkhgfghsjfkhgfsghj",
+      "Role": "Owner"
+    },
+    {
+      "id": 4,
+      "UserName": "Way Kohlerman",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "ConnectionDeg": "1st",
+      "Desc": "Excision of Stomach, Via Natural or Artificial Opening, Vert fybsijg;narigursbniesyghbrsgisyhgbraufojraebgiyebi",
+      "Role": "Owner"
+    },
+    {
+      "id": 5,
+      "UserName": "Way Kohlerman",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "ConnectionDeg": "1st",
+      "Desc": "Excision of Stomach, Via Natural or Artificial Opening, Vert fybsijg;narigursbniesyghbrsgisyhgbraufojraebgiyebi",
+      "Role": "Admin"
+    },
+    {
+      "id": 6,
+      "UserName": "Way Kohlerman",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "ConnectionDeg": "1st",
+      "Desc": "Excision of Stomach, Via Natural or Artificial Opening, Vert fybsijg;narigursbniesyghbrsgisyhgbraufojraebgiyebi",
+      "Role": "Owner"
+    },
+    {
+      "id": 7,
+      "UserName": "Way Kohlerman",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "ConnectionDeg": "1st",
+      "Desc": "Excision of Stomach, Via Natural or Artificial Opening, Vert fybsijg;narigursbniesyghbrsgisyhgbraufojraebgiyebi",
+      "Role": "Owner"
+    }
+  ],
+  "Groups": [
+    {
+      "id": 7,
+      "groupName": "India Technology Investor Club: AI, Fintech, IoT, Robotics, and Technology Investors",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "memberCount": 1238721,
+      "groupDesc" : "ahfbgihsjbntsrhijnighsngiseugnrejgnshstjduyftjhtgrfrastdfklgjhgfhjfkglj;kjhgfsz"
+    },{
+      "id": 2,
+      "groupName": "Jobs 4 Devs: JavaScript, Python, Go, TypeScript, NodeJS, React, Angular, Vue, Svelte, Deno",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "memberCount": 789
+    }, {
+      "id": 3,
+      "groupName": "MS Excel and VBA macros",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "memberCount": 12000
+    },{
+      "id": 4,
+      "groupName": "India Technology Investor Club: AI, Fintech, IoT, Robotics, and Technology Investors",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "memberCount": 2456
+    }, {
+      "id": 5,
+      "groupName": "Artists Collective",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "memberCount": 876
+    },{
+      "id": 6,
+      "groupName": "Travel Explorers",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "memberCount": 5432
+    }, {
+      "id": 7,
+      "groupName": "Bookworms Society",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "memberCount": 987,
+      "groupDesc" : "ahfbgihsjbntsrhijnighsngiseugnrejgnshstjduyftjhtgrfrastdfklgjhgfhjfkglj;kjhgfsz"
+    },{
+      "id": 8,
+      "groupName": "Gaming Guild",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "memberCount": 6534
+    }, {
+      "id": 9,
+      "groupName": "Music Mania",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "memberCount": 2345
+    }, {
+      "id": 10,
+      "groupName": "Coding Ninjas",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEWA5omcrEaXw/profile-displayphoto-shrink_100_100/0/1662032541580?e=1708560000&v=beta&t=xZLxcXyXJwVInwK5X_YekMuCNmQmjKfpld339xwh51I",
+      "memberCount": 8765
+    }
+  ]
+}
